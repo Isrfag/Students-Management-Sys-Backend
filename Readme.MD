@@ -24,7 +24,7 @@ El repositorio del frontend está alojado aquí https://github.com/Isrfag/Studen
 ## -- English version:
 
 
-# Frontend Students Management React App
+# Backend Students Management React App
 Backend API built using Java with Springboot framework that shows data from a local MySQL database.The Api will be consumed by my own React.js frontend.
 Frontend repository can be found here https://github.com/Isrfag/Students-Management-Sys-Frontend
 
